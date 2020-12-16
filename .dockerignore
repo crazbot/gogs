@@ -1,7 +1,5 @@
-.git
-.git/**
-packager
-packager/**
+.packager
+.packager/**
 scripts
 scripts/**
 .github/
@@ -10,7 +8,6 @@ config.codekit
 .dockerignore
 *.yml
 *.md
-.bra.toml
 .editorconfig
 .gitignore
 Dockerfile*
